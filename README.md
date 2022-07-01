@@ -1,1 +1,3 @@
-# Cool-Goal-Clone
+# Cool-Goal-Clone  
+
+![](https://github.com/ezgicett/Cool-Goal-Clone/blob/main/gif.mp4)
